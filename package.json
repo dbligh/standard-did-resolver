@@ -1,0 +1,24 @@
+{
+  "name": "standard-did-resolver",
+  "version": "1.0.0",
+  "description": "Resolve DIDs for back end applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbligh/standard-did-resolver.git"
+  },
+  "keywords": [
+    "decentralized",
+    "identifiers",
+    "did"
+  ],
+  "author": "Daniel Bligh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbligh/standard-did-resolver/issues"
+  },
+  "homepage": "https://github.com/dbligh/standard-did-resolver#readme"
+}
